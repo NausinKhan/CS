@@ -14,6 +14,6 @@ Also used [formspree](https://formspree.io) in contact form.
 - Start the Apache and MySQL modules using the **XAMPP** controller.
 - Open the **phpMyAdmin** and create a database **"ecommerce"**. 
 - Import the **ecommerce.sql** file present in the zip folder.
-- Open the htdocs folder in the xampp folder. Copy paste the folder **Planet-Shopify-ecommerce-website**.
+- Open the htdocs folder in the xampp folder. Copy paste the folder.
 - Open the browser (chrome), type *localhost/Planet-Shopify-ecommerce-website* and you should see the index page of the website.
 
