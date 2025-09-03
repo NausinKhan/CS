@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(231, 227, 227);
+    
+}
+
+.headings h1{
+    font-size: 50px;
+}
+
+.para1{
+    align-items: center;
+    justify-content: center;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+    padding: 30px;
+}
+
+.course h3{
+    font-size: 28px;
+    text-align: center;
+    padding: 30px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.course li{
+    align-items: center;
+    justify-content: center;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+}
+
+.course ul{
+    padding: 50px 0;
+}
+
+.diploma p1{
+    align-items: center;
+    justify-content: center;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 28px;
+    display: flex;
+    padding: 30px 0;
+}
+
+.diploma h3{
+    font-size: 30px;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.diploma p{
+    align-items: center;
+    justify-content: center;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+    padding: 30px 0;
+}
+
+.diploma li{
+    align-items: center;
+    justify-content: center;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+}
+
+.diploma ul{
+        padding: 50px 0;
+    
+}
+
+.diploma b{
+    align-items: center;
+    justify-content: center;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+}
+
+.list h3{
+    font-size: 30px;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.list li{
+    align-items: center;
+    justify-content: center;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+}
+
+.branches h3{
+      font-size: 28px;
+      align-items: center;
+      text-align: center;
+}
+
+.branches p{
+    align-items: center;
+    justify-content: center;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+    padding: 30px 0;
+}
+
+.dc h2{
+    font-size: 28px;
+    text-align: center;
+    padding: 30px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.dc li{
+    align-items: center;
+    justify-content: center;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+}
+
+.dc ul{
+    padding: 50px 0;
+}
+
+.college h3{
+    font-size: 28px;
+    text-align: center;
+    padding: 30px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.college li{
+    align-items: center;
+    justify-content: center;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+}
+
+.doc h3{
+    font-size: 28px;
+    text-align: center;
+    padding: 30px;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 30px 0;
+}
+
+.doc li{
+    align-items: center;
+    justify-content: center;
+    max-width: 80%;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 17px;
+
+}
+
+.doc ul{
+    padding: 50px 0;
+}
